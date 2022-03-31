@@ -1,6 +1,10 @@
 <!-- TITLE -->
 # Tag — Header, Nav e Footer
 
+```html
+    <header></header>
+```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
