@@ -5,6 +5,8 @@
     <header></header>
 ```
 
+> O elemento de cabeçalho representa o conteúdo introdutório para seu conteúdo de secionamento dos antepassados mais próximos ou elemento de raiz de secionamento. Um cabeçalho normalmente contém um grupo de elementos introdutórios ou auxiliares de navegação. Quando o conteúdo de secionamento ou elemento raiz de secionamento do antepassado mais próximo é o elemento do corpo, então ele se aplica a toda a página.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
