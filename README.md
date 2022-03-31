@@ -1,8 +1,6 @@
 <!-- TITLE -->
 # Tag — Header, Nav e Footer
 
-* ***Conteúdo:***
-
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
