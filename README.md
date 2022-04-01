@@ -13,6 +13,9 @@
 
 > O elemento de navegação representa uma seção de uma página que se liga a outras páginas ou a partes dentro da página: uma seção com links de navegação.
 
+```html
+    <footer></footer>
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
