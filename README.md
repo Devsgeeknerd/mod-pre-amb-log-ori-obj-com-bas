@@ -15,6 +15,9 @@
 
 ```html
     <footer></footer>
+```
+
+> O elemento de rodapé representa um rodapé para seu conteúdo de secionamento dos antepassados mais próximos ou elemento de secionamento da raiz. Um rodapé normalmente contém informações sobre sua seção, como quem o escreveu, links para documentos relacionados, dados de direitos autorais e afins.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
