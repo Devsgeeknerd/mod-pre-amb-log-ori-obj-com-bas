@@ -19,7 +19,7 @@
     <footer></footer>
 ```
 
-> O elemento de rodapé representa um rodapé para seu conteúdo de secionamento dos antepassados mais próximos ou elemento de secionamento da raiz. Um rodapé normalmente contém informações sobre sua seção, como quem o escreveu, links para documentos relacionados, dados de direitos autorais e afins.
+> O elemento de rodapé representa um rodapé para seu conteúdo de segmentação dos antecessores mais próximos ou elemento de segmentação da raiz. Um rodapé normalmente contém informações sobre sua seção, como quem o escreveu, links para documentos relacionados, dados de direitos autorais e afins.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
@@ -28,10 +28,10 @@
 <!--  * [Foto da tela](#foto-da-tela) -->
 <!--  * [Links](#links) -->
 <!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
+<!--  * [Construído com](#construido-com) -->
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
+<!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
 <!-- * [Agradecimentos](#agradecimentos) -->
 <!-- * [Informações](#informações) -->
@@ -49,7 +49,7 @@
 <!-- ## MEU PROCESSO -->
 
 <!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
+<!-- ### CONSTRUÍDO COM -->
 
 <!-- WHAT I LEARNED -->
 <!-- ### O QUE APRENDI -->
