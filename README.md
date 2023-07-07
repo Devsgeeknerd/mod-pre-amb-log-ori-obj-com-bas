@@ -23,4 +23,3 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-pre-amb-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/mod-pre-amb-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
-mod-pre-amb-log-ori-obj-com-bas
