@@ -5,7 +5,7 @@
 
 * [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-pre-amb-log-ori-obj-com-bas)
 * [x] [Fazendo a Instalação do Java Development Kit.](https://github.com/Devsgeeknerd/cla-faz-ins-jav-dev-kit-pre-amb-log-ori-obj-com-bas)
-* [ ] [Fazendo a Instalação do Eclipse.](https://github.com/Devsgeeknerd/cla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas) &#128679;
+* [x] [Fazendo a Instalação do Eclipse.](https://github.com/Devsgeeknerd/cla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
